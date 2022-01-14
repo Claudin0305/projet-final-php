@@ -26,3 +26,5 @@ Ce projet est réalisé par FOCUSLAB. Ce dernier est composé de:
 
 Nous remercions le prof Josué pour avoir choisi ce projet et pour nous avoir guidé
 dans l'apprentissage du language PHP.
+
+#ce sont les memes fichiers, sans modification. On decompresse projet_final_php.zip
